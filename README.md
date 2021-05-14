@@ -1,2 +1,2 @@
-## 코딩 연습
+## Board-Practice
 ### 서블릿 & JSP 게시판
